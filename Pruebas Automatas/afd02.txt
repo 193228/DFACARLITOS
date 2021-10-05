@@ -1,0 +1,5 @@
+Q ={p, q, r}
+S ={a, b}
+D ={(p,a,q),(p,b,r),(q,a,q),(q,b,r), (r,a,r), (r,b,r)}
+q0 = p
+F ={q}
